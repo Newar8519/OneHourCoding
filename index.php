@@ -33,8 +33,8 @@ li a:hover:not(.active) {
 </head>
 
 <ul>
-  <li><a classhref="/index.html">Home</a></li>
-  <li><a class="active" href="/Html.html">Html</a></li>
+  <li><a class="active" href="/index.html">Home</a></li>
+  <li><a classhref="/Html.html">Html</a></li>
   <li><a classhref="/about.html">About</a></li>
 </ul>
 
